@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1564508188 source:c:\users\jeet\documents\c\hash_table\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575179152 source:c:\users\jeet\documents\c\data_structure\hash_table\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

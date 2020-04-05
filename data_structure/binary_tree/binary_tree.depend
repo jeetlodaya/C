@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1527691072 source:c:\users\jeet\documents\binary_tree\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1527691074 source:c:\users\jeet\documents\c\binary_tree\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

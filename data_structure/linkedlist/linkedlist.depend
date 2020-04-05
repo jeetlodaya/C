@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1527348942 source:c:\users\jeet\documents\linkedlist\main.cpp
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+
+1564217109 source:c:\users\jeet\documents\c\linkedlist\main.cpp
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1577982075 source:c:\users\jeet\documents\c\float to fixed\float_fixed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+

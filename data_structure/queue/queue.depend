@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1527411751 source:c:\users\jeet\documents\queue\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1564582660 source:c:\users\jeet\documents\c\queue\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

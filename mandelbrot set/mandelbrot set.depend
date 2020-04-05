@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1562979936 source:c:\users\jeet\documents\c\mandelbrot set\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<math.h>
+
